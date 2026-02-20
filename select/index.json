@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "キングスレイヤー",
+  "base_artist": "マイキP",
+  "createdAt": "2026-02-20T16:28:45.438054Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キングスレイヤー",
+      "artist": "マイキP",
+      "has_synced": false,
+      "path": "select/pl_01_キングスレイヤー_マイキP.txt"
+    }
+  ]
+}
